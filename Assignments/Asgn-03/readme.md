@@ -378,7 +378,7 @@ This class will not offer any public constructors.
 
   Assumptions about the template parameter `Collection_t`:
   - has a member function called `size()` that returns the number of items in the collection
-  - overloads `operator[]` that receives an unsigned integer as parameter and returns an object of type `MediaInfo*`
+  - overloads `operator[]` that receives an unsigned integer as parameter and returns an object of type `MediaItem*`
 
 - `double getEpisodeAverageLength() const`: get the average length in seconds of an episode.
 
