@@ -418,7 +418,7 @@ For `tester_1`, the upload to matrix the files:
 From a command prompt, execute the following command:
 
 ```bash
-~profname.proflastname/submit 345_w4_tester_1
+~profname.proflastname/submit 345/asgn4_tester_1
 ```
 
 
@@ -435,7 +435,7 @@ For `tester_2`, the upload to matrix the files:
 From a command prompt, execute the following command:
 
 ```bash
-~profname.proflastname/submit 345_w4_tester_2
+~profname.proflastname/submit 345/asgn4_tester_2
 ```
 
 
